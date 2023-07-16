@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [Github.com/yogeshharsana](Github.com/yogeshharsana)
+- 👨‍💻 All of my projects are available at [Github.com/yogeshharsana]
 
 - 💬 Ask me about **Blockchain, Solidity, Ethereum**
 
